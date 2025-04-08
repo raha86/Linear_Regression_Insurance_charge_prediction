@@ -27,7 +27,7 @@ The data gives you the information about the users including their age, sex, bmi
 ### 3. Feature Selection for Data Modeling:
 * Used correlation matrix and heatmap to visualize the correlation of the independent variables with the target variable.
   
-### 4. Data Preprocessing Before Model Training:
+### 4. Data Preprocessing And Model Training:
 * Standardizing the features:
 Normalizing the features so that the samples will have the same mean and standard deviation. (Used StandardScaler to achieve this)
 
