@@ -33,10 +33,11 @@ Normalizing the features so that the samples will have the same mean and standar
 
 * Model Building
 
-* Model Evaluation:
-Used R2 score to measure the performance. Achieved 97% accuracy.
+### 5. Model Evaluation:
+Used <b>R2 score</b> to measure the performance.
+Achieved R2 Score 0.97 (97%).
 
-### 5. Visual Representation:
+### 6. Visual Representation:
 
 ![image](https://github.com/user-attachments/assets/5050cd19-e7f1-44e8-8ba6-eee3412e9f47)
 
